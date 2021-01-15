@@ -1,0 +1,10 @@
+{
+  "name": "HandcraftGhosts",
+  "version": "0.18.1",
+  "title": "Handcraft Ghosts",
+  "author": "Jobeo",
+  "Licence": "Custom",
+  "description": "A button to craft nearby ghost items",
+  "dependencies": ["base >= 0.17"],
+  "factorio_version": "1.0"
+}

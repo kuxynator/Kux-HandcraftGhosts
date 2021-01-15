@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version 0.17.0
+  - Initial release
+Version 0.18.0
+  - Made compatible with 0.18.0
+  Version 0.18.1
+  - Make the button an icon again.  I tried to rewrite this as a shortcut bar icon but failed at it.
